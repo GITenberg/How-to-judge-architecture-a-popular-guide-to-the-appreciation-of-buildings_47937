@@ -1,4 +1,8 @@
 _repo: How-to-judge-architecture-a-popular-guide-to-the-appreciation-of-buildings_47937
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47937-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Sturgis, Russell
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44529'
     url: http://www.gutenberg.org/2009/agents/44529
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47937#How-to-judge-architecture-a-popular-guide-to-the-appreciation-of-buildings
 gutenberg_issued: '2015-01-10'
 gutenberg_type: Text
 identifiers:
